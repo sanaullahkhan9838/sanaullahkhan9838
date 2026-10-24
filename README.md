@@ -1,152 +1,46 @@
-<h1 align="center">Hi, I'm Sanaullah Khan 👋</h1>
-
 <p align="center">
-  <b>BCA AI & ML Student | Aspiring Full Stack Developer | Software Engineering | Python | Web Development | Exploring AI & Machine Learning</b>
+  <img src="banner.svg" alt="Sanaullah Khan - Aspiring Software Engineer" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sanaullahkhan9838"><img src="https://img.shields.io/badge/GitHub-Sanaullahkhan9838-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/sanaullah-khan-666872335"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:sanaullahkhan74532@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="http://sanaul.is-a.dev/"><img src="https://img.shields.io/badge/Live_Portfolio-E1306C?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sanaullah-khan-666872335"><img src="https://img.shields.io/badge/LinkedIn-Connect-833AB4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sanaullahkhan9338"><img src="https://img.shields.io/badge/GitHub-Follow-F58529?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:sanaullahkhan74532@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-E1306C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<p align="center"><img src="about.svg" alt="About me" width="100%" /></p>
 
-## 👋 About Me
+<p align="center"><img src="tech.svg" alt="Languages and technologies" width="100%" /></p>
 
-I'm a **BCA (Artificial Intelligence & Machine Learning)** student at **Integral University, Lucknow**, with a strong interest in AI, Machine Learning, and Software Development. I'm working towards becoming a Full Stack Developer by learning and building real projects.
-
-- 🎓 Studying: BCA (AI & ML) at Integral University, Lucknow
-- 🌱 Currently learning: HTML, CSS, JavaScript, React, Node.js and Python
-- 🔭 Exploring: AI, Machine Learning, APIs and databases
-- 💼 Open to work: Remote / Greater Lucknow Area
-- 📍 Based in: Greater Lucknow Area, Uttar Pradesh, India
-
-```js
-const developer = {
-  name: "Sanaullah Khan",
-  role: "Aspiring AI Full Stack Developer",
-  education: "BCA (AI & ML) - Integral University",
-  learning: ["HTML", "CSS", "JavaScript", "React", "Node.js", "Python"],
-  interests: ["AI", "Machine Learning", "Web Development"],
-  goal: "Build real-world applications",
-  motto: "Learn. Build. Improve."
-};
-```
-
----
-
-## 🛠️ Languages & Technologies
-
-**Frontend**
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-</p>
-
-**Backend & Programming**
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-</p>
-
-**Databases**
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 📝 [Student Registration Form](https://github.com/Sanaullahkhan9838/student-registration-form)
-A simple student registration form built with HTML and CSS, featuring a graph paper background theme.
-
-- **Tech used:** HTML, CSS
-- **GitHub:** [student-registration-form](https://github.com/Sanaullahkhan9838/student-registration-form)
-
-> More projects coming soon. I'm building in public and learning every day.
-
----
-
-## 🗺️ My Full Stack Learning Roadmap
-
-| Stage | Learning Goals |
-|---|---|
-| 🧱 Fundamentals | HTML, CSS, responsive design |
-| ⚡ JavaScript | DOM, events, interactive websites |
-| 🎨 Frontend | React and reusable components |
-| 🐍 Programming | Python and problem-solving |
-| 🖥️ Backend | Node.js, APIs, server fundamentals |
-| 🗄️ Databases | SQL, MySQL, MongoDB |
-| 🔧 Tools | Git, GitHub, Linux, deployment |
-| 🚀 Projects | Build complete full stack applications |
-
----
-
-## 📊 GitHub Stats
+<p align="center"><img src="projects.svg" alt="Projects" width="100%" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanaullahkhan9838&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaullahkhan9838&layout=compact&theme=dark" height="150" />
+  <a href="https://sanaullahkhan9338.github.io/student-registration-form/"><img src="https://img.shields.io/badge/Live_Demo-E1306C?style=for-the-badge" /></a>
+  <a href="https://github.com/sanaullahkhan9338/student-registration-form"><img src="https://img.shields.io/badge/View_on_GitHub-833AB4?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
+<p align="center"><img src="roadmap.svg" alt="Software engineering roadmap" width="100%" /></p>
 
-## 💡 My Philosophy
+<p align="center"><img src="stats.svg" alt="GitHub stats" width="100%" /></p>
 
-> "Every expert was once a beginner. Keep learning, keep building, and never stop improving."
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanaullahkhan9338&show_icons=true&bg_color=FFFFFF&border_color=E1306C&title_color=833AB4&text_color=0F172A&icon_color=E1306C&ring_color=E1306C" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaullahkhan9338&layout=compact&bg_color=FFFFFF&border_color=E1306C&title_color=833AB4&text_color=0F172A" />
+</p>
 
-- 📚 Learn something new every day
-- 🛠️ Turn knowledge into real projects
-- 🐛 Treat errors as opportunities to learn
-- 🌱 Stay consistent and keep growing
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanaullahkhan9338&background=FFFFFF&border=E1306C&ring=E1306C&fire=F58529&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=833AB4&sideLabels=833AB4&dates=5B6477&stroke=E1306C" />
+</p>
 
----
+<p align="center"><img src="philosophy.svg" alt="My philosophy" width="100%" /></p>
 
-## 🤝 Let's Connect
+<p align="center"><img src="connect.svg" alt="Let's connect" width="100%" /></p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="220">
-      <a href="https://www.linkedin.com/in/sanaullah-khan-666872335">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/><br/>
-        <sub><b>Sanaullah Khan</b></sub><br/>
-        <sub>Let's connect professionally</sub>
-      </a>
-    </td>
-    <td align="center" width="220">
-      <a href="https://github.com/Sanaullahkhan9838">
-        <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/><br/>
-        <sub><b>Sanaullahkhan9838</b></sub><br/>
-        <sub>Check out my projects</sub>
-      </a>
-    </td>
-    <td align="center" width="220">
-      <a href="mailto:sanaullahkhan74532@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br/><br/>
-        <sub><b>sanaullahkhan74532@gmail.com</b></sub><br/>
-        <sub>Drop me a message</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanaullah-khan-666872335"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-833AB4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sanaullahkhan9338"><img src="https://img.shields.io/badge/GitHub-See_my_code-F58529?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:sanaullahkhan74532@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-E1306C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<p align="center"><b>Thanks for visiting! Let's learn, build, and grow together. 🚀</b></p>
+<p align="center"><i>Sanaullah Khan · Let's learn, build and grow together.</i></p>
