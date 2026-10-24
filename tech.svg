@@ -4,117 +4,117 @@
 <linearGradient id="gt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E1306C"/><stop offset="1" stop-color="#833AB4"/></linearGradient>
 <linearGradient id="gd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F9B934"/><stop offset=".3" stop-color="#F58529"/><stop offset=".65" stop-color="#E1306C"/><stop offset="1" stop-color="#833AB4"/></linearGradient>
 <linearGradient id="gv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F9B934"/><stop offset=".35" stop-color="#F58529"/><stop offset=".7" stop-color="#E1306C"/><stop offset="1" stop-color="#833AB4"/></linearGradient>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF6DC"/><stop offset=".5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#EDE5FB"/></linearGradient>
-<filter id="sh" x="-10%" y="-10%" width="120%" height="125%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#6B4CA8" flood-opacity=".18"/></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E1509"/><stop offset=".5" stop-color="#0D1117"/><stop offset="1" stop-color="#1A1030"/></linearGradient>
+<filter id="sh" x="-10%" y="-10%" width="120%" height="125%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#E1306C" flood-opacity=".22"/></filter>
 </defs>
 <rect width="800" height="1068" rx="24" fill="url(#bg)"/>
 <rect x="40" y="30" width="720" height="4" rx="2" fill="url(#g)"/>
-<text x="40" y="82" font-size="36" font-weight="800" fill="#0F172A">Languages and technologies</text>
-<text x="40" y="136" font-size="19" font-weight="600" fill="#475569">Programming languages</text>
+<text x="40" y="82" font-size="36" font-weight="800" fill="#F8FAFC">Languages and technologies</text>
+<text x="40" y="136" font-size="19" font-weight="600" fill="#CBD5E1">Programming languages</text>
 <rect x="40" y="150" width="101" height="40" rx="20" fill="url(#g)"/>
 <text x="91" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#FFFFFF">Python</text>
-<rect x="154.10921875" y="151" width="74" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="191" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Java</text>
-<rect x="241.62890625" y="151" width="48" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="265" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">C</text>
-<rect x="303.22484375" y="151" width="74" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="340" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">C++</text>
-<rect x="391.32578125" y="151" width="126" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="455" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">JavaScript</text>
-<rect x="531.71015625" y="151" width="130" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="597" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">TypeScript</text>
-<rect x="675.8290625" y="151" width="71" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="711" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">SQL</text>
-<rect x="41" y="203" width="79" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="81" y="228" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Bash</text>
-<text x="40" y="294" font-size="19" font-weight="600" fill="#475569">Software engineering</text>
-<rect x="41" y="309" width="300" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="191" y="334" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Data Structures &amp; Algorithms</text>
-<rect x="355.23625000000004" y="309" width="74" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="392" y="334" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">OOP</text>
-<rect x="443.70046875" y="309" width="152" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="520" y="334" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">SDLC &amp; Agile</text>
-<rect x="609.80515625" y="309" width="136" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="678" y="334" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Clean Code</text>
-<rect x="41" y="361" width="222" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="152" y="386" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Debugging &amp; Testing</text>
-<rect x="277.26156249999997" y="361" width="174" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="364" y="386" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Version Control</text>
-<rect x="464.97421875" y="361" width="179" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="554" y="386" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Design Patterns</text>
-<rect x="41" y="413" width="169" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="125" y="438" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">System Design</text>
-<text x="40" y="504" font-size="19" font-weight="600" fill="#475569">Web technologies</text>
-<rect x="41" y="519" width="97" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="89" y="544" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">HTML5</text>
-<rect x="151.8278125" y="519" width="81" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="192" y="544" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">CSS3</text>
-<rect x="246.7875" y="519" width="86" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="290" y="544" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">React</text>
-<rect x="347.28359375" y="519" width="148" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="421" y="544" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Tailwind CSS</text>
-<rect x="509.61015625000005" y="519" width="124" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="572" y="544" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Bootstrap</text>
-<rect x="647.6840625" y="519" width="103" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="699" y="544" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Node.js</text>
-<rect x="41" y="571" width="127" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="104" y="596" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Express.js</text>
-<rect x="181.51515625000002" y="571" width="99" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="231" y="596" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Django</text>
-<rect x="294.159375" y="571" width="83" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="336" y="596" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Flask</text>
-<rect x="390.9790625" y="571" width="103" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="443" y="596" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">FastAPI</text>
-<rect x="508.18609375" y="571" width="126" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="571" y="596" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">REST APIs</text>
-<text x="40" y="662" font-size="19" font-weight="600" fill="#475569">Databases</text>
-<rect x="41" y="677" width="97" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="89" y="702" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">MySQL</text>
-<rect x="151.9440625" y="677" width="140" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="222" y="702" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">PostgreSQL</text>
-<rect x="306.10406250000005" y="677" width="121" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="367" y="702" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">MongoDB</text>
-<rect x="441.30078125000006" y="677" width="95" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="489" y="702" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">SQLite</text>
-<rect x="549.9053125" y="677" width="85" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="592" y="702" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Redis</text>
-<text x="40" y="768" font-size="19" font-weight="600" fill="#475569">AI &amp; Machine Learning</text>
-<rect x="41" y="783" width="99" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="91" y="808" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">NumPy</text>
-<rect x="154.1528125" y="783" width="100" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="204" y="808" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Pandas</text>
-<rect x="268.64250000000004" y="783" width="138" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="338" y="808" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Scikit-learn</text>
-<rect x="420.76812500000005" y="783" width="136" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="489" y="808" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">TensorFlow</text>
-<rect x="571.19359375" y="783" width="106" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="624" y="808" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">PyTorch</text>
-<rect x="41" y="835" width="127" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="105" y="860" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Matplotlib</text>
-<rect x="182.27078125" y="835" width="101" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="233" y="860" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Jupyter</text>
-<text x="40" y="926" font-size="19" font-weight="600" fill="#475569">Tools and platforms</text>
-<rect x="41" y="941" width="62" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="72" y="966" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Git</text>
-<rect x="116.9528125" y="941" width="98" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="166" y="966" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">GitHub</text>
-<rect x="228.72515625" y="941" width="157" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="307" y="966" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">GitHub Pages</text>
-<rect x="399.2909375" y="941" width="169" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="484" y="966" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">GitHub Actions</text>
-<rect x="582.6878125" y="941" width="98" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="632" y="966" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Docker</text>
-<rect x="41" y="993" width="84" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="83" y="1018" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Linux</text>
-<rect x="139.2146875" y="993" width="76" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="177" y="1018" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">AWS</text>
-<rect x="229.56796875" y="993" width="110" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="284" y="1018" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">VS Code</text>
-<rect x="353.1978125" y="993" width="116" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="411" y="1018" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">PyCharm</text>
-<rect x="483.1778125" y="993" width="114" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="540" y="1018" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Postman</text>
-<rect x="610.99265625" y="993" width="91" height="38" rx="19" fill="#FFFFFF" stroke="url(#g)" stroke-width="2"/>
-<text x="656" y="1018" text-anchor="middle" font-size="17" font-weight="700" fill="#1E2A44">Figma</text>
+<rect x="154.10921875" y="151" width="74" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="191" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Java</text>
+<rect x="241.62890625" y="151" width="48" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="265" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">C</text>
+<rect x="303.22484375" y="151" width="74" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="340" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">C++</text>
+<rect x="391.32578125" y="151" width="126" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="455" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">JavaScript</text>
+<rect x="531.71015625" y="151" width="130" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="597" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">TypeScript</text>
+<rect x="675.8290625" y="151" width="71" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="711" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">SQL</text>
+<rect x="41" y="203" width="79" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="81" y="228" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Bash</text>
+<text x="40" y="294" font-size="19" font-weight="600" fill="#CBD5E1">Software engineering</text>
+<rect x="41" y="309" width="300" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="191" y="334" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Data Structures &amp; Algorithms</text>
+<rect x="355.23625000000004" y="309" width="74" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="392" y="334" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">OOP</text>
+<rect x="443.70046875" y="309" width="152" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="520" y="334" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">SDLC &amp; Agile</text>
+<rect x="609.80515625" y="309" width="136" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="678" y="334" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Clean Code</text>
+<rect x="41" y="361" width="222" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="152" y="386" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Debugging &amp; Testing</text>
+<rect x="277.26156249999997" y="361" width="174" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="364" y="386" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Version Control</text>
+<rect x="464.97421875" y="361" width="179" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="554" y="386" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Design Patterns</text>
+<rect x="41" y="413" width="169" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="125" y="438" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">System Design</text>
+<text x="40" y="504" font-size="19" font-weight="600" fill="#CBD5E1">Web technologies</text>
+<rect x="41" y="519" width="97" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="89" y="544" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">HTML5</text>
+<rect x="151.8278125" y="519" width="81" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="192" y="544" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">CSS3</text>
+<rect x="246.7875" y="519" width="86" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="290" y="544" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">React</text>
+<rect x="347.28359375" y="519" width="148" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="421" y="544" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Tailwind CSS</text>
+<rect x="509.61015625000005" y="519" width="124" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="572" y="544" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Bootstrap</text>
+<rect x="647.6840625" y="519" width="103" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="699" y="544" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Node.js</text>
+<rect x="41" y="571" width="127" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="104" y="596" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Express.js</text>
+<rect x="181.51515625000002" y="571" width="99" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="231" y="596" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Django</text>
+<rect x="294.159375" y="571" width="83" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="336" y="596" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Flask</text>
+<rect x="390.9790625" y="571" width="103" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="443" y="596" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">FastAPI</text>
+<rect x="508.18609375" y="571" width="126" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="571" y="596" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">REST APIs</text>
+<text x="40" y="662" font-size="19" font-weight="600" fill="#CBD5E1">Databases</text>
+<rect x="41" y="677" width="97" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="89" y="702" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">MySQL</text>
+<rect x="151.9440625" y="677" width="140" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="222" y="702" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">PostgreSQL</text>
+<rect x="306.10406250000005" y="677" width="121" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="367" y="702" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">MongoDB</text>
+<rect x="441.30078125000006" y="677" width="95" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="489" y="702" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">SQLite</text>
+<rect x="549.9053125" y="677" width="85" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="592" y="702" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Redis</text>
+<text x="40" y="768" font-size="19" font-weight="600" fill="#CBD5E1">AI &amp; Machine Learning</text>
+<rect x="41" y="783" width="99" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="91" y="808" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">NumPy</text>
+<rect x="154.1528125" y="783" width="100" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="204" y="808" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Pandas</text>
+<rect x="268.64250000000004" y="783" width="138" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="338" y="808" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Scikit-learn</text>
+<rect x="420.76812500000005" y="783" width="136" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="489" y="808" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">TensorFlow</text>
+<rect x="571.19359375" y="783" width="106" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="624" y="808" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">PyTorch</text>
+<rect x="41" y="835" width="127" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="105" y="860" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Matplotlib</text>
+<rect x="182.27078125" y="835" width="101" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="233" y="860" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Jupyter</text>
+<text x="40" y="926" font-size="19" font-weight="600" fill="#CBD5E1">Tools and platforms</text>
+<rect x="41" y="941" width="62" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="72" y="966" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Git</text>
+<rect x="116.9528125" y="941" width="98" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="166" y="966" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">GitHub</text>
+<rect x="228.72515625" y="941" width="157" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="307" y="966" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">GitHub Pages</text>
+<rect x="399.2909375" y="941" width="169" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="484" y="966" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">GitHub Actions</text>
+<rect x="582.6878125" y="941" width="98" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="632" y="966" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Docker</text>
+<rect x="41" y="993" width="84" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="83" y="1018" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Linux</text>
+<rect x="139.2146875" y="993" width="76" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="177" y="1018" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">AWS</text>
+<rect x="229.56796875" y="993" width="110" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="284" y="1018" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">VS Code</text>
+<rect x="353.1978125" y="993" width="116" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="411" y="1018" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">PyCharm</text>
+<rect x="483.1778125" y="993" width="114" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="540" y="1018" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Postman</text>
+<rect x="610.99265625" y="993" width="91" height="38" rx="19" fill="#151A23" stroke="url(#g)" stroke-width="2"/>
+<text x="656" y="1018" text-anchor="middle" font-size="17" font-weight="700" fill="#E5E7EB">Figma</text>
 
 </svg>

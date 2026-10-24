@@ -4,36 +4,36 @@
 <linearGradient id="gt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E1306C"/><stop offset="1" stop-color="#833AB4"/></linearGradient>
 <linearGradient id="gd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F9B934"/><stop offset=".3" stop-color="#F58529"/><stop offset=".65" stop-color="#E1306C"/><stop offset="1" stop-color="#833AB4"/></linearGradient>
 <linearGradient id="gv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F9B934"/><stop offset=".35" stop-color="#F58529"/><stop offset=".7" stop-color="#E1306C"/><stop offset="1" stop-color="#833AB4"/></linearGradient>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF6DC"/><stop offset=".5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#EDE5FB"/></linearGradient>
-<filter id="sh" x="-10%" y="-10%" width="120%" height="125%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#6B4CA8" flood-opacity=".18"/></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E1509"/><stop offset=".5" stop-color="#0D1117"/><stop offset="1" stop-color="#1A1030"/></linearGradient>
+<filter id="sh" x="-10%" y="-10%" width="120%" height="125%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#E1306C" flood-opacity=".22"/></filter>
 </defs>
 <rect width="800" height="772" rx="24" fill="url(#bg)"/>
 <rect x="40" y="30" width="720" height="4" rx="2" fill="url(#g)"/>
-<text x="40" y="82" font-size="36" font-weight="800" fill="#0F172A">Software engineering roadmap</text>
+<text x="40" y="82" font-size="36" font-weight="800" fill="#F8FAFC">Software engineering roadmap</text>
 <rect x="57" y="132" width="4" height="594" rx="2" fill="url(#gv)"/>
-<circle cx="59" cy="144" r="11" fill="#FFFFFF" stroke="url(#gd)" stroke-width="4"/>
-<text x="94" y="150" font-size="22" font-weight="800" fill="#0F172A">Programming fundamentals</text>
-<text x="94" y="178" font-size="18" fill="#5B6477">C, Java, Python and problem solving</text>
-<circle cx="59" cy="222" r="11" fill="#FFFFFF" stroke="url(#gd)" stroke-width="4"/>
-<text x="94" y="228" font-size="22" font-weight="800" fill="#0F172A">Data structures and algorithms</text>
-<text x="94" y="256" font-size="18" fill="#5B6477">Arrays, trees, graphs and complexity</text>
-<circle cx="59" cy="300" r="11" fill="#FFFFFF" stroke="url(#gd)" stroke-width="4"/>
-<text x="94" y="306" font-size="22" font-weight="800" fill="#0F172A">OOP and design</text>
-<text x="94" y="334" font-size="18" fill="#5B6477">Classes, design principles and clean code</text>
-<circle cx="59" cy="378" r="11" fill="#FFFFFF" stroke="url(#gd)" stroke-width="4"/>
-<text x="94" y="384" font-size="22" font-weight="800" fill="#0F172A">Web basics</text>
-<text x="94" y="412" font-size="18" fill="#5B6477">HTML, CSS, JavaScript, React, Node.js and REST APIs</text>
-<circle cx="59" cy="456" r="11" fill="#FFFFFF" stroke="url(#gd)" stroke-width="4"/>
-<text x="94" y="462" font-size="22" font-weight="800" fill="#0F172A">Databases</text>
-<text x="94" y="490" font-size="18" fill="#5B6477">SQL, MySQL, PostgreSQL and MongoDB</text>
-<circle cx="59" cy="534" r="11" fill="#FFFFFF" stroke="url(#gd)" stroke-width="4"/>
-<text x="94" y="540" font-size="22" font-weight="800" fill="#0F172A">Tools and workflow</text>
-<text x="94" y="568" font-size="18" fill="#5B6477">Git, GitHub, Docker, Linux, testing and Agile</text>
-<circle cx="59" cy="612" r="11" fill="#FFFFFF" stroke="url(#gd)" stroke-width="4"/>
-<text x="94" y="618" font-size="22" font-weight="800" fill="#0F172A">AI and Machine Learning</text>
-<text x="94" y="646" font-size="18" fill="#5B6477">Python, ML basics and building smart features</text>
-<circle cx="59" cy="690" r="11" fill="#FFFFFF" stroke="url(#gd)" stroke-width="4"/>
-<text x="94" y="696" font-size="22" font-weight="800" fill="#0F172A">Projects</text>
-<text x="94" y="724" font-size="18" fill="#5B6477">Design, build and ship real software</text>
+<circle cx="59" cy="144" r="11" fill="#0D1117" stroke="url(#gd)" stroke-width="4"/>
+<text x="94" y="150" font-size="22" font-weight="800" fill="#F8FAFC">Programming fundamentals</text>
+<text x="94" y="178" font-size="18" fill="#A3ABBA">C, Java, Python and problem solving</text>
+<circle cx="59" cy="222" r="11" fill="#0D1117" stroke="url(#gd)" stroke-width="4"/>
+<text x="94" y="228" font-size="22" font-weight="800" fill="#F8FAFC">Data structures and algorithms</text>
+<text x="94" y="256" font-size="18" fill="#A3ABBA">Arrays, trees, graphs and complexity</text>
+<circle cx="59" cy="300" r="11" fill="#0D1117" stroke="url(#gd)" stroke-width="4"/>
+<text x="94" y="306" font-size="22" font-weight="800" fill="#F8FAFC">OOP and design</text>
+<text x="94" y="334" font-size="18" fill="#A3ABBA">Classes, design principles and clean code</text>
+<circle cx="59" cy="378" r="11" fill="#0D1117" stroke="url(#gd)" stroke-width="4"/>
+<text x="94" y="384" font-size="22" font-weight="800" fill="#F8FAFC">Web basics</text>
+<text x="94" y="412" font-size="18" fill="#A3ABBA">HTML, CSS, JavaScript, React, Node.js and REST APIs</text>
+<circle cx="59" cy="456" r="11" fill="#0D1117" stroke="url(#gd)" stroke-width="4"/>
+<text x="94" y="462" font-size="22" font-weight="800" fill="#F8FAFC">Databases</text>
+<text x="94" y="490" font-size="18" fill="#A3ABBA">SQL, MySQL, PostgreSQL and MongoDB</text>
+<circle cx="59" cy="534" r="11" fill="#0D1117" stroke="url(#gd)" stroke-width="4"/>
+<text x="94" y="540" font-size="22" font-weight="800" fill="#F8FAFC">Tools and workflow</text>
+<text x="94" y="568" font-size="18" fill="#A3ABBA">Git, GitHub, Docker, Linux, testing and Agile</text>
+<circle cx="59" cy="612" r="11" fill="#0D1117" stroke="url(#gd)" stroke-width="4"/>
+<text x="94" y="618" font-size="22" font-weight="800" fill="#F8FAFC">AI and Machine Learning</text>
+<text x="94" y="646" font-size="18" fill="#A3ABBA">Python, ML basics and building smart features</text>
+<circle cx="59" cy="690" r="11" fill="#0D1117" stroke="url(#gd)" stroke-width="4"/>
+<text x="94" y="696" font-size="22" font-weight="800" fill="#F8FAFC">Projects</text>
+<text x="94" y="724" font-size="18" fill="#A3ABBA">Design, build and ship real software</text>
 
 </svg>
